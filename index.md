@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Putting a Spark in App
 
-You can use the [editor on GitHub](https://github.com/DarshanKumar89/darshan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Apache Spark is a fast, in-memory data processing engine with elegant and expressive development APIs to allow data workers to efficiently execute streaming, machine learning or SQL workloads that require fast iterative access to datasets. 
+With Spark running on Apache Hadoop YARN, developers everywhere can now create applications to exploit Spark’s power, derive insights
+The Hadoop YARN-based architecture provides the foundation that enables Spark and other applications to share a common cluster and dataset while ensuring consistent levels of service and response. Spark is now one of many data access engines that work with YARN in HDP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
